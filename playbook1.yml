@@ -3,5 +3,5 @@
     - copy:
       src: /etc/passwd
       dest: /tmp/
-      owner: ubantu
+      owner: ubuntu
       mode: 777
